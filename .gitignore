@@ -1,23 +1,40 @@
-
-# Unity
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-
-# OS
-.DS_Store
-
-# Visual Studio / Rider
+# Ignorar las carpetas temporales y de metadatos del sistema operativo
+[Llave de carpetas y archivos temporales]
+/.idea/
+.vs/
 *.csproj
 *.unityproj
 *.sln
 *.suo
-*.tmp
 *.user
 *.userprefs
 *.pidb
 *.booproj
+*.svd
+*.pdb
+*.meta
+*.pidb.meta
+*.pdb.meta
+
+# Ignorar carpetas generadas automáticamente por Unity
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+/UserSettings/
+
+# Ignorar archivos generados por Unity que no deben ser versionados
+*.unitypackage
+# Ignorar archivos del compilador
+*.dll
+*.exe
+*.mdb
+*.so
+*.a
+*.dylib
+*.log
+*.meta
+
+# Ignorar archivos de paquetes y archivos temporales específicos de macOS
+.DS_Store
