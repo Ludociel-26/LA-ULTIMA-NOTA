@@ -20527,7 +20527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf2bf51efe2144ecea51b91826ed1559, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CandadoDigital
-  nombreSiguienteEscena: all_objects
+  nombreSiguienteEscena: Puzzle2Scene
   uiPanelCandado: {fileID: 1439988953}
   inputFieldCodigo: {fileID: 763987410}
 --- !u!1001 &1499036240
