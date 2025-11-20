@@ -18,11 +18,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzle1Scene.unity
     guid: a429bf131da894e64bd81cdba4fbdc6e
   - enabled: 1
-    path: Assets/school/DemoScene/all_objects.unity
-    guid: c206d02e77fbc3148a269062ea0e8069
-  - enabled: 1
     path: Assets/Scenes/Puzzle2Scene.unity
     guid: f2514657ffb294e53a43497d295e4794
+  - enabled: 1
+    path: Assets/Scenes/all_objects.unity
+    guid: c206d02e77fbc3148a269062ea0e8069
+  - enabled: 1
+    path: Assets/Scenes/Escena_Creditos.unity
+    guid: 3361e57ba5c3b49c5a9720730beefb2d
+  - enabled: 1
+    path: Assets/Scenes/Escena_Game_Over.unity
+    guid: a2239ec16d51d4935999155784fb6fc4
   - enabled: 1
     path: Assets/Scenes/FinalScene.unity
     guid: bc15655f7672e4b369b04c1a6a096e4a

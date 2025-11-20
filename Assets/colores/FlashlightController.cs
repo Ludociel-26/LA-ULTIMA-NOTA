@@ -24,8 +24,8 @@ public class FlashlightController : MonoBehaviour
 {
     // Variables públicas para ajustar el aspecto de la linterna en el Inspector
     [Header("Configuración de Potencia")]
-    public float intensidadMaxima = 20f;  // Para un efecto más potente
-    public float alcanceMaximo = 70f;    // Distancia máxima a la que alumbra
+    public float intensidadMaxima = 250f;  // Para un efecto más potente
+    public float alcanceMaximo = 90f;    // Distancia máxima a la que alumbra
 
     [Header("Referencias")]
     public Camera camaraJugador;        // ¡IMPORTANTE! Asigna aquí la cámara principal

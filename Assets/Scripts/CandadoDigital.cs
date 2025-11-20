@@ -122,7 +122,7 @@ using TMPro;
 
 public class CandadoDigital : MonoBehaviour
 {
-    private const string CODIGO_SECRETO = "1234"; 
+    private const string CODIGO_SECRETO = "2901"; 
     public string nombreSiguienteEscena = "Escena_Gimnasio";
 
     [Header("UI del Candado")]
